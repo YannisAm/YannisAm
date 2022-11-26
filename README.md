@@ -16,11 +16,11 @@
 
 #### I am a Junior .Net Developer :desktop_computer: from Greece.
 
-- :telescope: Currently I am attending a Java coding bootcamp to further my programming skills.
+- :telescope: Currently, I am attending a Java coding bootcamp to further my programming skills.
 
-- :seedling: Furthermore, I am learning about blazor through my blazor project "Fintech".
+- :seedling: Furthermore, I am learning about Blazor through my Blazor project, "Fintech."
 
-- :zap: In my free time, I read a lot of books and I do coding, coding, coding.
+- :zap: In my free time, I read a lot of books and I do coding, coding and coding.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yannis-amanatidis-b2b4221b4/)
 - 👯 I’m looking to collaborate on anything relevant to my skills or something that will make me better programmer
