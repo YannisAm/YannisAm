@@ -12,9 +12,9 @@
   <h1>Hi there 👋</h1>
 </div>
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
-I am a Junior .Net Developer :desktop_computer: from Greece.
+#### I am a Junior .Net Developer :desktop_computer: from Greece.
 
 - :telescope: Currently I am attending a Java coding bootcamp to further my programming skills.
 
