@@ -8,6 +8,10 @@
   </a>
 </div>
 
+<div id="count" align="center">
+<img src="https://komarev.com/ghpvc/?username=YannisAm&style=flat-square&color=blue" alt=""/>
+</div>
+
 <div id="hey" align="center">
   <h1>Hi there 👋</h1>
 </div>
