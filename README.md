@@ -18,9 +18,7 @@
 
 ## :man_technologist: About Me :
 
-#### I am a Junior .Net Developer :desktop_computer: from Greece.
-
-- :telescope: Currently, I am attending a Java coding bootcamp to further my programming skills.
+#### I am a .Net Developer :desktop_computer: from Greece.
 
 - :seedling: Furthermore, I am learning about Blazor through my Blazor project, "Fintech."
 
