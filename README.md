@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I read a lot of books and I do coding, coding and coding.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yannis-amanatidis-b2b4221b4/)
+[- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yannis-amanatidis-b2b4221b4/)](url)
 - 👯 I’m looking to collaborate on anything relevant to my skills or something that will make me better programmer.
 
 ---
